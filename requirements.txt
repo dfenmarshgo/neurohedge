@@ -1,0 +1,9 @@
+MetaTrader5
+pandas
+numpy
+python-dotenv
+scikit-learn
+joblib
+gymnasium
+stable-baselines3
+schedule
